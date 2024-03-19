@@ -31,19 +31,25 @@ The program performs the following steps:
    node index.js
 4. The program will start organizing files within the specified directory.
 
-# Configuration
+## Configuration
 
 Modify the `basepath` variable in the code to specify the directory path that you want to organize.
 
 You can customize the file extensions to be excluded or included for organization by modifying the condition inside the loop.
 
-# Dependencies
+## Dependencies
 
 - `fs/promises`: File System module for asynchronous file operations.
 - `fs`: File System module for synchronous file operations.
 - `path`: Path module for working with file and directory paths.
 
-# License
+## Authors
 
-This project is licensed under the MIT License.
-   
+- [@raiyan-fr](https://www.github.com/raiyan-fr)
+
+
+
+
+## License
+
+The project is License under [MIT License](https://choosealicense.com/licenses/mit/).
